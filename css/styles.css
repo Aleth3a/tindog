@@ -1,0 +1,150 @@
+body {
+  font-family: 'Montserrat';
+}
+#title {
+  background-color: #ef8172;
+  color: #fff;
+}
+h1 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 3rem;
+  font-weight: 900;
+  line-height: 1.5;
+}
+.container-fluid {
+  padding: 3% 15%;
+}
+
+/* Nabvar */
+.navbar {
+  padding: 0 0 4.5rem;
+}
+.navbar-brand {
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 2.5rem;
+  font-weight: bold;
+}
+
+.nav-item {
+  margin-right: 1.25rem;
+  padding: 0 18px;
+}
+.nav-link {
+  font-size: 1.2rem;
+}
+
+/* Download Buttons */
+
+.download-button {
+  margin: 5% 3% 5% 0;
+
+}
+
+/* Title image */
+
+.title-image {
+  transform: rotate(30deg);
+}
+
+.img-responsive {
+  width: 50%;
+  height: auto;
+}
+
+/* Features */
+
+#features {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  text-align: center;
+  padding-top: 3rem;
+  background-color: #fff;
+}
+
+.features-padding {
+  padding-bottom: 2rem;
+}
+
+
+h3 {
+  font-family: 'Montserrat-Bold', sans-serif;
+  font-size: 1.5rem;
+  font-weight: bold;
+}
+.features-icon {
+  padding-bottom: 1rem;
+  font-size: 3rem;
+  color: #ef8172;
+}
+.features-text {
+  color: #8f8f8f;
+}
+
+/* Testimonial Section */
+
+#testimonials {
+  text-align: center;
+  background-color: #ef8172;
+  color: #fff;
+}
+
+h2 {
+  font-family: 'Montserrat-Bold', sans-serif;
+  font-size: 3rem;
+  font-weight: 700;
+  line-height: 1.5;
+}
+
+.testimonial-image {
+  width: 10%;
+  border-radius: 100%;
+  margin: 1.25rem;
+}
+
+#press {
+  background-color: #ef8172;
+  text-align: center;
+  padding-bottom: 3%;
+}
+
+.press-logo {
+  width: 15%;
+  margin: 20px 20px 50px;
+}
+
+.carousel-item {
+  padding: 7% 15%;
+}
+
+/*Pricing Section*/
+
+#pricing {
+  padding: 100px;
+}
+
+.pricing-column {
+  padding: 3% 2%;
+}
+
+.smaller-list {
+  padding-bottom:24px;
+}
+
+.btn-outline-primary {
+  color: #ef8172 !important;
+  border-color: #ef8172 !important;
+}
+
+.btn-outline-primary:hover {
+  background-color: #ef8172 !important;
+  color: #fff !important;
+}
+
+.bg-primary {
+  background-color: #ef8172 !important;
+}
+
+.border-primary {
+  border-color: #ef8172 !important;
+}
